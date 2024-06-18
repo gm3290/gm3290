@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I am a Full-stack developer</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=topfullstackdev&label=Profile%20views&color=0e75b6&style=flat" alt="topfullstackdev" /> </p>
+
 
 👨🏼‍💻 Skilled Software Architect and Engineer with over 10 years of experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
