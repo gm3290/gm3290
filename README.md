@@ -77,8 +77,10 @@
 --!>
 </p>
 
+<!--
 <div>
   <h4> GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gm3290&show_icons=true&theme=vue-dark&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gm3290&layout=compact&theme=vue-dark"" />
 </div>
+--!>
